@@ -43,16 +43,20 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![]![memory-game-lose](https://user-images.githubusercontent.com/94583145/159152674-966a5943-a878-4714-aefb-228674a646c2.gif)
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+
 Since I already have some experience with HTML, CSS, and JS, I was able to just follow the tutorials provided on CodePath. The only video I used was a YouTube video about generating links from GIF's to embed into this READ ME.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 I did not face any significant challenges during this submission! All the steps on CodePath were very clear. The only problem I had was generating the GIF links, which I solved by using a YouTube video. I realized I could just drag in the link from the File Explorer.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I know there are a lot of different front-end and back-end web development languages, like React, Express, Node, Angular, and etc. As well as database structures like PostgreSQL and MongoDB. I was wondering where it would be most beneficial to learn as a beginning web developer? Is it better to continue learning a lot of them or getting professional experience in just a few?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I would try to reorganize the buttons so that they are centered firstly. Then I would make the buttons unclickable when the pattern is currently playing. After I would generate random sequences each time rather than the static pattern. Then I would create another game mode option where the buttons would randomly change locations with each button press, so players have to remember the color associated with the sound, rather than just the location!
 
 
@@ -64,7 +68,7 @@ I would try to reorganize the buttons so that they are centered firstly. Then I 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Jessica Lam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
